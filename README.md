@@ -8,7 +8,7 @@ Meu objetivo é me tornar uma profissional em front-end e construir projetos que
 <h3 align="left">Conecte-se Comigo:</h3>
 <p align="left">
 
-<a href="www.linkedin.com/in/melissa-silva-41588921b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter kimanzi" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/melissa-silva-41588921b" target="blank"><img align="center" src="https://raw.githubusercontent.com/melcsilva/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mel Silva" height="30" width="40" /></a>
 </p>
 
 ---
