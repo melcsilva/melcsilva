@@ -5,7 +5,7 @@
 Me chamo Melissa Silva, tenho 24 anos e moro em São Paulo, Capital. Sou apaixonada por tecnologia e desenvolvimento web. Atualmente, estou estudando HTML, CSS e Typescript, com planos de me aprofundar em outras linguagens. Cursei Análise e Desenvolvimento de Sitemas pela Cruzeiro do Sul e estou procurando melhorar minhas habilidades antes de ingressar na área. 
 Meu objetivo é me tornar uma profissional em front-end e construir projetos que aprimorem minhas habilidades. Este GitHub será meu portfólio, onde registro minha evolução e projetos.
 
-<a href="www.linkedin.com/in/melissa-silva-41588921b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/melissa-cassia-41588921b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:melissasilva245@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </p>
