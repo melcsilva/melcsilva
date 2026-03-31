@@ -10,7 +10,7 @@ Meu objetivo é me tornar uma profissional em front-end e construir projetos que
 
 </p>
 
-<a href="https://www.animatedimages.org/cat-star-wars-636.htm"><img src="https://www.animatedimages.org/data/media/636/animated-star-wars-image-0097.gif" border="0" alt="animated-star-wars-image-0097" /></a>
+<a href="https://www.animatedimages.org/cat-star-wars-636.htm"><img src="https://www.animatedimages.org/data/media/636/animated-star-wars-image-0097.gif" border="0" alt="animated-star-wars-image-0097"/></a>
 
 ---
 
