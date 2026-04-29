@@ -4,7 +4,7 @@
 
 Olá, me chamo Melissa Silva, tenho 24 anos e moro em São Paulo. Sou desenvolvedora full stack com foco em backend, atualmente me aprofundando em Java. Tenho experiência com JavaScript, TypeScript, React, Node.js e MySQL, desenvolvendo aplicações completas e APIs REST. Participei de projetos em equipe utilizando metodologias ágeis, versionamento com Git e boas práticas de desenvolvimento, sempre buscando escrever código limpo, organizado e escalável. Também tenho experiência com design gráfico, o que me ajuda a pensar não só no código, mas na experiência do usuário. Este GitHub funciona como meu portfólio, onde compartilho projetos, estudos e minha evolução constante na área de tecnologia.
 
-<a href="https://www.linkedin.com/in/melissa-cassia-41588921b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/melissa-cassia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:melissasilva245@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </p>
